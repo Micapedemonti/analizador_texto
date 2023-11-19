@@ -6,5 +6,6 @@ Este es un proyecto basico de python, se trata de un programa que analiza el tex
 .El sistema nos va a mostrar como quedaria el texto si invirtieramos el orden de las palabras 
 .El sistema nos va a decir si la palabra "Python" se encuentra dentro del texto.
 
-#Para ver el proyecto:
-1_ En tu consola predeterminada debes escribir el siguiente comando git clone https://github.com/Micapedemonti/analizador_texto.git 2_ Luego en tu editor de busqueda favorito abres el proyecto y puedes utilizarlo.
+# Para ver el proyecto
+1_ En tu consola predeterminada debes escribir el siguiente comando git clone https://github.com/Micapedemonti/analizador_texto.git 
+2_ Luego en tu editor de busqueda favorito abres el proyecto y puedes utilizarlo.
