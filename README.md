@@ -8,4 +8,4 @@ Este es un proyecto basico de python, se trata de un programa que analiza el tex
 
 # Para ver el proyecto
 1_ En tu consola predeterminada debes escribir el siguiente comando git clone https://github.com/Micapedemonti/analizador_texto.git 
-2_ Luego en tu editor de busqueda favorito abres el proyecto y puedes utilizarlo.
+2_ Luego en tu editor de codigo favorito abres el proyecto y puedes utilizarlo.
